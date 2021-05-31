@@ -17,7 +17,7 @@
 
 `GitHub:`
 =======
-`create a new repository on the command line`\
+`Create a new repository on the command line`\
 01.====>>echo "# create-multiple-components-from-an-array-of-objects" >> README.md\
 02.====>>git init\
 03.====>>git add .\
@@ -26,7 +26,7 @@
 06.====>>git remote add origin https://github.com/Eg-MD-Sunny/create-multiple-components-from-an-array-of-objects.git\
 07.====>>git push -u origin main
 
-`push an existing repository from the command line`\
+`Push an existing repository from the command line`\
 01.====>>rm -rf .git\
 02.====>>git remote add origin https://github.com/Eg-MD-Sunny/create-multiple-components-from-an-array-of-objects.git\
 03.====>>git branch -M main\

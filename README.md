@@ -23,12 +23,12 @@
 03.====>>git add .\
 04.====>>git commit -m "first commit"\
 05.====>>git branch -M main\
-06.====>>git remote add origin https://github.com/Eg-MD-Sunny/create-multiple-components-from-an-array-of-objects.git\
+06.====>>git remote add origin https://github.com/Eg-MD-Sunny/create-multiple-components-from-an-array-of-objects.git \
 07.====>>git push -u origin main
 
 `Push an existing repository from the command line`\
 01.====>>rm -rf .git\
-02.====>>git remote add origin https://github.com/Eg-MD-Sunny/create-multiple-components-from-an-array-of-objects.git\
+02.====>>git remote add origin https://github.com/Eg-MD-Sunny/create-multiple-components-from-an-array-of-objects.git \
 03.====>>git branch -M main\
 04.====>>git push -u origin main
 
